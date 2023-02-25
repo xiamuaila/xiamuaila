@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World!;Hello+xiamuaila!)]()
+Idealism shines brightly
 <!--
 **xiamuaila/xiamuaila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,5 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Idealism shines brightly
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=xiamuaila&left_color=green&right_color=red)
